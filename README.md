@@ -1,2 +1,2 @@
 # ML-SemMatch
-code for `ML-SemMatch: Advancing 3D Keypoint Matching with Multi-Level Semantic Awarenes`
+code for `ML-SemMatch: Boosting 3D Match with Multi-Level Semantic Awareness`
